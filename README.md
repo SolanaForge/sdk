@@ -2,35 +2,47 @@
 
 Build, launch and discover tokens on SolanaForge.
 
-## Links
+---
 
-🌐 App  
+### Launch App
 https://solanaforge.app
 
-🔍 Discover  
+### Discover Tokens
 https://solanaforge.app/tokens
 
-🪙 Example Token  
+### Example Token
 https://solanaforge.app/t/8wD7PZp82i36deZWBD7xAmgQjgZvRLNt4nSsSNE5kiui
 
 ---
 
 ## Install
 
-```bash
-npm install @solanaforge/sdk
-```
+bash npm install @solanaforge/sdk 
+
+---
 
 ## Quick Start
 
-```js
-import SolanaForge from "@solanaforge/sdk"
-```
+javascript import SolanaForge from "@solanaforge/sdk"  // coming soon 
+
+---
 
 ## Features
 
 - Token creation
 - Token discovery
-- Wallet support
+- Wallet integrations
+- Ecosystem tools
 - Analytics
-- Ecosystem integrations
+
+---
+
+## Documentation
+
+Coming soon.
+
+---
+
+## Community
+
+Website → https://solanaforge.app
