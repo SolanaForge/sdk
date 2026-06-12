@@ -17,11 +17,15 @@ https://solanaforge.app/t/8wD7PZp82i36deZWBD7xAmgQjgZvRLNt4nSsSNE5kiui
 
 ## Install
 
-bash npm install @solanaforge/sdk 
+```bash
+npm install @solanaforge/sdk
+```
 
 ## Quick Start
 
-js import SolanaForge from "@solanaforge/sdk" 
+```js
+import SolanaForge from "@solanaforge/sdk"
+```
 
 ## Features
 
